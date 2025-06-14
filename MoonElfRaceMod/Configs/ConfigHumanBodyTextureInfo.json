@@ -1,19 +1,18 @@
 {
-	/*Moon Elf*/
-	"1448330898": {
-		"bodyTexturePath": "MoonElfRaceMod/Textures/Body/MoonF1",
-		"fistTexturePath": "MoonElfRaceMod/Textures/Fists/MoonFist1"
-	},
-	"1448330903": {
-		"bodyTexturePath": "MoonElfRaceMod/Textures/Body/MoonF2",
-		"fistTexturePath": "MoonElfRaceMod/Textures/Fists/MoonFist2"
-	},
-	"1448330902": {
-		"bodyTexturePath": "MoonElfRaceMod/Textures/Body/MoonM1",
-		"fistTexturePath": "MoonElfRaceMod/Textures/Fists/MoonFist1"
-	},
-	"1448330904": {
-		"bodyTexturePath": "MoonElfRaceMod/Textures/Body/MoonM2",
-		"fistTexturePath": "MoonElfRaceMod/Textures/Fists/MoonFist2"
-	}
+  "1448330898": {
+    "bodyTexturePath": "MoonElfRaceMod/Textures/Body/MoonF1",
+    "fistTexturePath": "MoonElfRaceMod/Textures/Fists/MoonFist1"
+  },
+  "1448330903": {
+    "bodyTexturePath": "MoonElfRaceMod/Textures/Body/MoonF2",
+    "fistTexturePath": "MoonElfRaceMod/Textures/Fists/MoonFist2"
+  },
+  "1448330902": {
+    "bodyTexturePath": "MoonElfRaceMod/Textures/Body/MoonM1",
+    "fistTexturePath": "MoonElfRaceMod/Textures/Fists/MoonFist1"
+  },
+  "1448330904": {
+    "bodyTexturePath": "MoonElfRaceMod/Textures/Body/MoonM2",
+    "fistTexturePath": "MoonElfRaceMod/Textures/Fists/MoonFist2"
+  }
 }

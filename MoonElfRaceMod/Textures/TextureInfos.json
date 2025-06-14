@@ -1,76 +1,21 @@
 {
-    /* Body */
-    "MoonElfRaceMod/Textures/Body/MoonF1-1": [
-        0.5,
-        0.26
-    ],
-    "MoonElfRaceMod/Textures/Body/MoonF1-2": [
-        0.5,
-        0.26
-    ],
-    "MoonElfRaceMod/Textures/Body/MoonF1-3": [
-        0.5,
-        0.26
-    ],
-    "MoonElfRaceMod/Textures/Body/MoonF1-4": [
-        0.5,
-        0.26
-    ],
-    "MoonElfRaceMod/Textures/Body/MoonF2-1": [
-        0.5,
-        0.26
-    ],
-    "MoonElfRaceMod/Textures/Body/MoonF2-2": [
-        0.5,
-        0.26
-    ],
-    "MoonElfRaceMod/Textures/Body/MoonF2-3": [
-        0.5,
-        0.26
-    ],
-    "MoonElfRaceMod/Textures/Body/MoonF2-4": [
-        0.5,
-        0.26
-    ],
-    "MoonElfRaceMod/Textures/Body/MoonM1-1": [
-        0.5,
-        0.26
-    ],
-    "MoonElfRaceMod/Textures/Body/MoonM1-2": [
-        0.5,
-        0.26
-    ],
-    "MoonElfRaceMod/Textures/Body/MoonM1-3": [
-        0.5,
-        0.26
-    ],
-    "MoonElfRaceMod/Textures/Body/MoonM1-4": [
-        0.5,
-        0.26
-    ],
-    "MoonElfRaceMod/Textures/Body/MoonM2-1": [
-        0.5,
-        0.26
-    ],
-    "MoonElfRaceMod/Textures/Body/MoonM2-2": [
-        0.5,
-        0.26
-    ],
-    "MoonElfRaceMod/Textures/Body/MoonM2-3": [
-        0.5,
-        0.26
-    ],
-    "MoonElfRaceMod/Textures/Body/MoonM2-4": [
-        0.5,
-        0.26
-    ],
-    /*Fists*/
-    "MoonElfRaceMod/Textures/Fists/MoonFist1": [
-        0.5,
-        0.26
-    ],
-    "MoonElfRaceMod/Textures/Fists/MoonFist2": [
-        0.5,
-        0.26
-    ]
+  "MoonElfRaceMod/Textures/Body/MoonF1-1": [0.5, 0.26],
+  "MoonElfRaceMod/Textures/Body/MoonF1-2": [0.5, 0.26],
+  "MoonElfRaceMod/Textures/Body/MoonF1-3": [0.5, 0.26],
+  "MoonElfRaceMod/Textures/Body/MoonF1-4": [0.5, 0.26],
+  "MoonElfRaceMod/Textures/Body/MoonF2-1": [0.5, 0.26],
+  "MoonElfRaceMod/Textures/Body/MoonF2-2": [0.5, 0.26],
+  "MoonElfRaceMod/Textures/Body/MoonF2-3": [0.5, 0.26],
+  "MoonElfRaceMod/Textures/Body/MoonF2-4": [0.5, 0.26],
+  "MoonElfRaceMod/Textures/Body/MoonM1-1": [0.5, 0.26],
+  "MoonElfRaceMod/Textures/Body/MoonM1-2": [0.5, 0.26],
+  "MoonElfRaceMod/Textures/Body/MoonM1-3": [0.5, 0.26],
+  "MoonElfRaceMod/Textures/Body/MoonM1-4": [0.5, 0.26],
+  "MoonElfRaceMod/Textures/Body/MoonM2-1": [0.5, 0.26],
+  "MoonElfRaceMod/Textures/Body/MoonM2-2": [0.5, 0.26],
+  "MoonElfRaceMod/Textures/Body/MoonM2-3": [0.5, 0.26],
+  "MoonElfRaceMod/Textures/Body/MoonM2-4": [0.5, 0.26],
+  
+  "MoonElfRaceMod/Textures/Fists/MoonFist1": [0.5, 0.26],
+  "MoonElfRaceMod/Textures/Fists/MoonFist2": [0.5, 0.26]
 }
